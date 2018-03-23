@@ -5,7 +5,7 @@
 
 High Frequency Crypto Trading based on numerous strats. I will be posting weekly portfolio updates and updating as I go along (i.e gains / losses).
 
-Please follow me on Github if you find this useful! Free to use, and **donations are always welcome** (:
+**Please follow me on Github if you find this useful!** Free to use, and **donations are always welcome** (:
 
 
 **LTC Wallet**: LTKDrwKF8zKxNajBfTgFg9MStRZXi1TFzJ  
