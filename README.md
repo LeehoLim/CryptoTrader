@@ -3,7 +3,7 @@
 ![banner](https://strategictechinvestor.com/acq/wp-content/uploads/2017/08/Lifetime-Opportunity.png)
 
 
-High Frequency Crypto Trader based on numerous strats. I will be posting weekly portfolio updates and updating as I go along (i.e gains / losses).
+High Frequency Crypto Trader based on numerous strats. I will be posting weekly portfolio updates (i.e gains / losses).
 
 **Please follow me on Github if you find this useful!** Free to use, and **donations are always welcome** (:
 
